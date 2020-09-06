@@ -68,6 +68,10 @@ canvas#canvas {
 }
 
 @media (max-width: 765px) {
+  #contact {
+    top: 90px;
+  }
+
   #contact h3 {
     display: none;
   }
@@ -75,12 +79,20 @@ canvas#canvas {
     padding-top: 7rem;
   }
 
+  #showcase {
+    top: 120px;
+  }
+
   #showcase h1 {
-    margin-top: 4rem;
-    margin-left: 2rem;
+    margin-top: 2rem;
+    margin-left: 1rem;
   }
 
   #showcase p.lead {
     display: none;
+  }
+
+  #boxes {
+    top: 130px;
   }
 }
