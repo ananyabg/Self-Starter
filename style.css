@@ -97,10 +97,6 @@ canvas#canvas {
     top: 130px;
   }
 
-  #boxes .card-body {
-    align-content: stretch;
-  }
-
   #boxes p {
     display: none;
   }
